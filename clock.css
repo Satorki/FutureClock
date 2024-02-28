@@ -31,10 +31,13 @@ canvas {
     width: 100%;
     height: 100%;
 }
+/* #clockBack {
+    background-image: ;
+} */
 
-#digitalClock{
+/* #digitalClock{
     position: absolute;
-    top: 255px;
+    top: 180px;
     height: 1px;
     font-size: 1.5rem;
     color: #ffffff;
@@ -61,4 +64,4 @@ canvas {
     font-size: 0.6rem;
     height: 50px;
     color: #f2f3f0;
-}
+} */
